@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@font-face{
+    font-family : 'Gabriel';
+    src : url('../font/Gabrielle.ttf');
+}
+
+@theme {
+    --font-Gabriel : 'Gabriel',sans-serif;
+}
